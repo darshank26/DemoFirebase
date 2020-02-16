@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423997177651",
+    "firebase_url": "https://fire-login-5893c.firebaseio.com",
+    "project_id": "fire-login-5893c",
+    "storage_bucket": "fire-login-5893c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423997177651:android:68419fa870488168600846",
+        "android_client_info": {
+          "package_name": "com.appdid.demofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423997177651-53ro4e73asr65eku6pkier1gkuj093jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqxS0i6UzcDqbNKJSkdUuAkYjmkbwAqhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423997177651-53ro4e73asr65eku6pkier1gkuj093jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
